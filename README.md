@@ -1,10 +1,4 @@
 # Advance Driver Assistance and Monitoring System (ADAMS)
-### By Team Delta Ducks
-[![licence MIT](https://img.shields.io/github/license/saksham2001/TouchFree-v2)](https://github.com/saksham2001/TouchFree-v2/blob/master/LICENSE) 
-
-*A Smart and Adaptive Driver Monitoring and Assistance System based on Facial Landmarking & Deep Learning.*
-
-[Demo Video](https://drive.google.com/file/d/12zwad21e7aZ0ogd5yTeGwNPSOnULHWgB/view?usp=sharing)
 
 ### Features
 
